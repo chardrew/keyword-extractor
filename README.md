@@ -1,6 +1,6 @@
 # 🔍 Keyword Extractor
 
-This project demonstrates keyword extraction and clustering using NLP and machine learning techniques.
+This project focuses on Natural Language Processing (NLP) and demonstrates keyword extraction from job advertisements using clustering and machine learning techniques.
 
 ## ✨ Features
 - **🧠 Natural Language Processing (NLP)**
